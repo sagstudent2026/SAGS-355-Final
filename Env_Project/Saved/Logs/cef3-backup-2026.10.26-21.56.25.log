@@ -1,0 +1,692 @@
+[12240:6220:1026/174321.732:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12240:17496:1026/174321.772:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12240:6220:1026/174321.778:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9312:7376:1026/174322.787:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-28028EAB828BF242F9F45DBB1CC70127 will be ignored
+[12240:6220:1026/174325.876:ERROR:usb_descriptors.cc(119)] Failed to parse configuration descriptor.
+[12240:2632:1026/174947.182:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[12240:6220:1026/174947.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[12240:6220:1026/174947.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[12240:6220:1026/174947.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[12240:6220:1026/174947.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[12240:6220:1026/174947.218:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[12240:6220:1026/174947.218:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[12240:6220:1026/174947.218:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[12240:6220:1026/174947.218:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[12240:6220:1026/174947.774:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[12240:6220:1026/174947.774:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[13012:19464:1026/175012.952:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175012.968:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175012.984:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.000:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.015:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.032:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.046:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.062:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.078:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1075).
+[13012:19464:1026/175013.126:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.141:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.157:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.188:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.189:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.219:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.235:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.251:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.267:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.283:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.298:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.313:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.329:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.346:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.361:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.377:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.393:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.409:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1077).
+[13012:19464:1026/175013.456:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.487:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.504:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.519:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.536:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.551:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.567:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.583:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.598:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.614:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.629:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.645:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.661:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.677:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.693:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.709:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.725:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.741:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1079).
+[13012:19464:1026/175013.804:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.820:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.836:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.852:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.867:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.883:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.899:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.915:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.931:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.947:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.962:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.978:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175013.994:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175014.010:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175014.025:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175014.041:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175014.056:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1081).
+[13012:19464:1026/175014.089:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1082).
+[13012:19464:1026/175014.134:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.150:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.164:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.180:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.195:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.211:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.226:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.242:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.258:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.274:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.289:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.321:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.322:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.352:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.368:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.384:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.401:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.416:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1083).
+[13012:19464:1026/175014.462:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.477:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.494:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.508:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.524:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.540:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.556:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.587:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.603:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.618:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.634:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.650:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.665:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.681:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.699:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.712:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.729:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.743:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1085).
+[13012:19464:1026/175014.791:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.807:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.823:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.854:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.870:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.886:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.902:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.917:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.933:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.948:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.964:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.982:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175014.997:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.013:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.029:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.043:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.059:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.074:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1087).
+[13012:19464:1026/175015.124:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.152:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.168:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.183:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.199:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.213:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.229:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.246:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.260:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.275:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.291:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.306:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.322:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.354:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.369:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.385:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.400:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.416:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1089).
+[13012:19464:1026/175015.478:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.493:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.509:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.524:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.540:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.556:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.586:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.602:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.619:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.636:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.650:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.666:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.681:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.696:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.713:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.727:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.744:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1092).
+[13012:19464:1026/175015.791:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.805:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.836:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.854:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.868:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.884:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.899:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.915:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.931:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.947:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.962:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.978:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175015.994:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.009:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.024:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.039:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.071:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.072:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1094).
+[13012:19464:1026/175016.133:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.149:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.164:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.179:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.194:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.210:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.226:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.242:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.257:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.272:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.303:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.319:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.334:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.350:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.365:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.381:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.397:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.413:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1096).
+[13012:19464:1026/175016.459:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.474:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.490:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.506:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.536:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.552:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.568:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.584:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.600:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.615:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.631:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.646:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.662:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.678:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.695:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.711:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.725:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13012:19464:1026/175016.741:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1098).
+[13308:7468:1026/175016.748:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/csrf
+[13308:7468:1026/175016.749:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175016.749:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[13308:7468:1026/175016.760:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175016.760:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175016.760:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175016.760:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[13012:19464:1026/175016.789:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.820:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.835:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.851:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.866:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.882:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.897:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.913:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.929:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.946:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.961:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.977:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175016.992:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.009:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.024:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.039:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.071:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.087:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1100).
+[13012:19464:1026/175017.133:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.148:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.164:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.179:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.196:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.211:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.226:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.241:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.257:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.273:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.289:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.320:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.335:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.351:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.366:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.382:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.398:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.414:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1102).
+[13012:19464:1026/175017.460:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.475:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.491:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.507:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.523:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.539:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.555:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.586:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.602:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.618:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.634:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.649:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.664:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.680:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.695:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.710:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.725:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.742:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1104).
+[13012:19464:1026/175017.805:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.805:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.836:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.851:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.866:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.881:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.897:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.913:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.928:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.943:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.959:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.974:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175017.990:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.006:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.022:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.053:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.069:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.085:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1106).
+[13012:19464:1026/175018.131:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.146:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.162:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.178:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.194:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.209:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.225:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.240:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.255:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.288:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.289:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.319:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.334:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.349:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.364:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.380:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.395:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.411:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1108).
+[13012:19464:1026/175018.457:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.473:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.504:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.520:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.535:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.551:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.567:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.582:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.598:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.613:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.629:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.646:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.661:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.677:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.693:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.709:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.724:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.740:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1110).
+[13012:19464:1026/175018.789:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.819:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.833:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.849:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.864:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.880:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.895:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.910:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.926:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.941:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.957:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175018.972:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.003:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.020:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.034:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.050:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.065:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.081:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1112).
+[13012:19464:1026/175019.128:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.144:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.160:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.176:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.191:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.207:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.223:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.239:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.270:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.285:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.301:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.318:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.332:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.348:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.363:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.379:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.395:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.410:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1114).
+[13012:19464:1026/175019.457:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.473:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.504:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.520:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.534:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.550:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.566:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.581:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.597:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.613:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.628:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.644:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.659:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.675:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.691:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.706:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.737:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1116).
+[13012:19464:1026/175019.756:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1117).
+[13012:19464:1026/175019.800:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.815:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.832:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.847:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.863:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.879:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.894:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.909:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.926:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.942:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.956:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175019.987:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.004:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.019:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.034:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.049:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.064:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.082:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1118).
+[13012:19464:1026/175020.128:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.143:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.159:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.175:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.191:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.206:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.222:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.253:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.269:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.285:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.301:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.317:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.332:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.349:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.363:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.379:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.395:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.411:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1120).
+[13012:19464:1026/175020.458:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.473:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.503:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.519:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.535:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.551:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.566:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.582:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.598:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.614:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.630:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.645:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.661:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.676:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.692:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.707:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.722:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.753:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1122).
+[13012:19464:1026/175020.799:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.814:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.830:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.846:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.862:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.877:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.893:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.909:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.924:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.940:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.956:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175020.973:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.004:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.019:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.034:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.050:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.066:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.082:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1124).
+[13012:19464:1026/175021.128:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.144:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.161:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.175:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.191:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.206:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.222:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.254:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.269:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.285:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.301:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.316:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.332:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.348:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.363:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.378:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.394:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.409:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1126).
+[13012:19464:1026/175021.456:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.472:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.489:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.519:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.536:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.550:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.565:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.581:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.596:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.612:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.627:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.644:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.659:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.674:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.691:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.706:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.723:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13012:19464:1026/175021.752:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1128).
+[13308:7468:1026/175021.755:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/p/authenticate
+[13012:19464:1026/175021.799:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.816:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.830:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.845:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.861:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.876:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.892:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.908:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.924:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.939:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.955:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.987:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175021.990:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.018:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.033:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.050:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.066:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.083:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1130).
+[13012:19464:1026/175022.145:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.161:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.175:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.191:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.206:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.237:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.252:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[12240:6220:1026/175022.267:VERBOSE1:device_event_log_impl.cc(198)] [17:50:22.266] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[12240:6220:1026/175022.267:VERBOSE1:device_event_log_impl.cc(198)] [17:50:22.267] Display: EVENT: screen_win.cc:895 Display[3936821709] bounds=[0,0 1920x1080], workarea=[0,0 1920x1032], scale=2, rotation=0, panel_rotation=0 external detected
+[13012:19464:1026/175022.267:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.273:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.289:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.306:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.322:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.339:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.356:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.372:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.389:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.406:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1133).
+[13012:19464:1026/175022.491:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1137).
+[13012:19464:1026/175022.507:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1137).
+[13012:19464:1026/175022.556:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1139).
+[13012:19464:1026/175022.606:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1141).
+[13012:19464:1026/175022.624:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1141).
+[13308:7468:1026/175022.642:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me
+[13308:7468:1026/175022.643:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/context
+[13308:7468:1026/175022.643:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?bundle_member=6f401fb5-88b5-41b4-bf1b-62321414e1f0&channels=unreal-engine
+[13308:7468:1026/175022.643:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?channels=unreal-engine&seller=Epic+Games
+[12240:6220:1026/175022.800:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175022.817:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?channels=unreal-engine&count=1&in=wishlist&is_discounted=1
+[13308:7468:1026/175022.817:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/cart
+[13308:7468:1026/175022.817:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states/6f401fb5-88b5-41b4-bf1b-62321414e1f0
+[13308:7468:1026/175023.050:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states?listing_ids=4095b8e0-3eff-44f1-acb4-cb40b99228b9&listing_ids=4898e707-7855-404b-af0e-a505ee690e68&listing_ids=880e319a-a59e-4ed2-b268-b32dac7fa016&listing_ids=93faede1-4434-47c0-85f1-bf27c0820ad0&listing_ids=d79688f5-29be-4fb2-a650-2d4a813f5306&listing_ids=df37eb46-09bf-4604-9307-cdc39c769790
+[12240:6220:1026/175024.291:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175024.400:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[13308:7468:1026/175024.401:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://o10593.ingest.us.sentry.io/api/4509005875773441/envelope/?sentry_version=7&sentry_key=2f9d7037268c3a61be1c8dd09f5b893b&sentry_client=sentry.javascript.react%2F9.17.0
+[13308:7468:1026/175024.401:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://o10593.ingest.us.sentry.io/api/4509005875773441/envelope/?sentry_version=7&sentry_key=2f9d7037268c3a61be1c8dd09f5b893b&sentry_client=sentry.javascript.react%2F9.17.0
+[13308:7468:1026/175024.402:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175024.422:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175024.422:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175024.422:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[12240:6220:1026/175024.458:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175024.458:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175024.458:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://tracking.epicgames.com/track.png?referringUrl=none&location=https%3A%2F%2Fwww.fab.com%2Fplugins%2Fue5%3Flisting_types%3D3d-model%26is_free%3D1%26sellers%3Do-aa83a0a9bc45e98c80c1b1c9d92e9e%26categories%3Denvironments&now=1793051424440&eventType=pageView&accountId=1439208a8dee410795850a9ad0529edd&l=en
+[12240:10332:1026/175024.533:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[12240:10332:1026/175024.533:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[13308:7468:1026/175024.542:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTI4LjAuNjYxMy4xMzgSJwnkEu6YOEYPPxIFDZFhlU4SBQ1TWkfFEgUNvyRSkCGXki-9B9cx1g==?alt=proto
+[13308:7468:1026/175024.600:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states?listing_ids=008fe959-5511-428e-93bd-f99b1179f6d5&listing_ids=27463ce7-56e0-43c7-ad39-d853da0461de&listing_ids=3262ab8f-f64a-4124-8efd-82cb19df6249&listing_ids=33a02039-7689-457e-b589-d8a6d719cbeb&listing_ids=383318d9-0ba5-4b52-9d36-1e5c9b580cff&listing_ids=530cafb2-7693-4ff9-aa64-75c24145765e&listing_ids=62e0fe0f-3fd7-4d40-993a-cae13e8199f4&listing_ids=75f42402-40bb-4a1b-b557-18e2c9604273&listing_ids=a472df9d-9179-4743-8d41-335f9ef55546&listing_ids=dd77fee6-0ad2-41ce-b32c-09300c24c9f3&listing_ids=e3cadcef-7709-4e6d-9f56-d6fb2156cb67
+[13308:7468:1026/175024.759:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?aggregate_on=category_per_listing_type&asset_formats=converted-files&asset_formats=fbx&asset_formats=glb&asset_formats=gltf&asset_formats=metahuman&asset_formats=unreal-engine&channels=unreal-engine&count=0&is_free=1&sellers=o-aa83a0a9bc45e98c80c1b1c9d92e9e
+[13308:7468:1026/175024.767:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?asset_formats=converted-files&asset_formats=fbx&asset_formats=glb&asset_formats=gltf&asset_formats=metahuman&asset_formats=unreal-engine&categories=environments&channels=unreal-engine&is_free=1&listing_types=3d-model&sellers=o-aa83a0a9bc45e98c80c1b1c9d92e9e&sort_by=-relevance
+[13308:7468:1026/175027.494:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175027.495:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[13308:7468:1026/175027.515:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175027.515:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175027.515:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[13308:7468:1026/175029.822:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states/75f42402-40bb-4a1b-b557-18e2c9604273
+[12240:6220:1026/175030.311:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175030.395:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://o10593.ingest.us.sentry.io/api/4509005875773441/envelope/?sentry_version=7&sentry_key=2f9d7037268c3a61be1c8dd09f5b893b&sentry_client=sentry.javascript.react%2F9.17.0
+[13308:7468:1026/175030.395:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://o10593.ingest.us.sentry.io/api/4509005875773441/envelope/?sentry_version=7&sentry_key=2f9d7037268c3a61be1c8dd09f5b893b&sentry_client=sentry.javascript.react%2F9.17.0
+[12240:6220:1026/175030.396:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[12240:6220:1026/175030.396:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175030.397:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://tracking.epicgames.com/track.png?referringUrl=none&location=https%3A%2F%2Fwww.fab.com%2Fplugins%2Fue5%2Flistings%2Fdd77fee6-0ad2-41ce-b32c-09300c24c9f3&now=1793051430389&eventType=pageView&accountId=1439208a8dee410795850a9ad0529edd&l=en
+[13308:7468:1026/175030.397:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3
+[12240:6220:1026/175030.404:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175030.404:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175030.596:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3/asset-formats/unreal-engine
+[13308:7468:1026/175030.596:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/search?bundle_member=dd77fee6-0ad2-41ce-b32c-09300c24c9f3&channels=unreal-engine
+[13308:7468:1026/175030.596:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states/dd77fee6-0ad2-41ce-b32c-09300c24c9f3
+[13308:7468:1026/175030.596:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3/prices-infos
+[13308:7468:1026/175030.604:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/959cb7fe-af22-47dd-917b-ea66c7e60037/0e326496-9e05-4826-b8fd-9a23bfcff07e.jpg
+[13308:7468:1026/175030.605:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175030.605:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[13308:7468:1026/175030.613:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/959cb7fe-af22-47dd-917b-ea66c7e60037/84034f15-7dae-4a9f-a678-b63929115dbf.jpg
+[13308:7468:1026/175030.613:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/c095d75e-1a95-4e9f-a9af-cd6f696c64c5/7abc310b-d249-44e0-b052-ddc567ad3a2b.jpg
+[13308:7468:1026/175030.613:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/74b8f87f-8c84-4abd-9841-5f62796644d8/2be9390f-e256-4750-b32a-35ceca6adefd.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/b6ab77b5-bfee-419a-b0e9-97db2a6c8584/5c239abb-8733-4f4b-9e86-01aafa2f5d90.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/aab297fa-8f31-44f1-b6a7-2cb973b0a119/df6620ac-af54-4995-a16f-f988be42dff7.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/fd954289-c3b2-4960-add2-f27d0414540f/ec814467-26ab-42c1-9cfa-ac78e11c582e.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/2d7f130b-67a2-4eba-8ef3-e8b85c024d37/3ebca176-303f-4d53-970f-996c33c2e948.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/a81a2c62-f626-46ad-8bce-c818c0193bab/02c26926-772c-4365-9454-ae9dc2b1e91f.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/6b4f09d4-d1b9-4c8f-b138-b6c3210b5fb3/fc4427ef-017c-46a1-8078-c9f75d54d5cc.jpg
+[13308:7468:1026/175030.614:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/bc37959a-da09-48ff-b518-e9cd3d00e5ca/c65dc37b-52a9-4d79-ac2b-41a441703da3.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/425bc271-9677-4c50-86fd-453853bd8210/9d8ee270-9f60-4cc1-8d89-b0daef7ddd8b.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/fccc3f75-73d3-4b12-8a08-6845fd11b403/0afb3528-6eaa-4eb3-a9ad-0d74053e6ffd.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/b3940f64-2ca2-4abf-b3ca-391636f09adf/5bcc9317-c8f4-4c40-bb06-8ad1741660e2.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/b7cb30e3-69fc-4b08-a19e-3fd90a7d97b2/d0387071-498d-4949-b514-598d13254531.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/b6c274c1-9970-40ca-8127-694fbe5b9b30/7cbfdb17-b79c-40be-b479-e4a64beaaa26.jpg
+[13308:7468:1026/175030.615:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/26bc39f9-6085-4248-b0de-b0e66797a9bc/463008d3-c621-4211-a53e-7a9722768e0f.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/c516cda8-f92d-4cff-adab-80aac55969b4/dd41fdd7-317c-4277-8953-26992122c601.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/032089bd-6dc2-45c4-a911-e277eaf7c347/efd233fc-867c-4232-aab5-5e7f3c21258b.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/d1c5534f-7f05-48a8-9b5d-95f06752dbc5/43f27b8f-3d58-4237-85f2-3f248a9f1b5b.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/5c3f4d7b-a7ae-4859-aff2-713aa87035b1/c2171b73-b2b3-4b52-8c34-466666170a36.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/68c4f4eb-fa9b-4d89-826c-4fcdc18ae88f/aba898c7-2ec2-48ca-ac37-42fe961f4274.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/43cfff16-086e-4dc7-af3b-a8f199f151d0/91b616c8-7ae1-4c2b-8836-fe963fbb7e4a.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/27a7bf7d-dfaa-4a75-b46b-ea9488648b72/65eb4b0f-984b-443c-b152-607c5e7ff787.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/bb381c71-2c0c-4e31-8913-1ecbc365d3e0/7696865c-8988-4829-985b-65a6eb3ffa90.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/f446cee5-ad1b-4660-869a-d34d6e68c709/ca9d5336-63f2-4fb6-8416-5da9a73e29b1.jpg
+[13308:7468:1026/175030.616:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/bd9a362e-2d70-4faf-8b8a-5a3c9b41bd61/55082ecc-f7f1-4483-9afe-d1c528771a68.jpg
+[13308:7468:1026/175030.617:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/9d252ca8-1fcd-4bfa-8827-3200ba30f247/fba4bf22-a11b-444b-a0bd-eaf1a490e6ca.jpg
+[13308:7468:1026/175030.617:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/a5165fe3-8cab-431d-843a-e3e834c64318/df842f34-d95d-4c0a-b5fb-07149f5ae1b5.jpg
+[13308:7468:1026/175030.617:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175030.617:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175030.617:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175030.617:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[13308:7468:1026/175030.617:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/2fc3b0dd-726d-48f4-b0cf-f91139e11866/e84c1161-75fb-440c-acce-1a3814464d37.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/5ae62512-18a6-4559-8b46-869ca1daa6e1/1500716f-ed9a-4d6f-8d29-eab328347f54.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/cc65fcb8-0fbb-44b3-99f9-7ccaccb5ee73/c1cbcecd-0253-4452-af66-7d36d4058515.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/5c29a1c4-51ce-4f52-87af-b28bb658bda3/a65934b8-8aca-4210-97b9-3a70987677ab.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/979f86dd-f9a2-4b5a-859b-40e8199fe8aa/686fe370-3b6e-4b5d-813f-396038d2f01b.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/e84fea4c-8b6c-4180-a860-cc8e313cabae/36d3c7a3-a5b7-4756-9a7c-5f33c5c26248.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/fb421d0f-f730-489d-aacb-627c79f06c23/38f1671e-7ec2-499b-9873-c9352b9dbe6b.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/112e082e-db11-4593-9382-293f0c79e18b/dcf070b5-a6bd-4c8c-92f3-5a5e538cb33c.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/c608359b-7bb8-4266-8a83-ea1a25f359b1/be3713df-fd0e-474b-8164-20f669a97b29.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/39447626-6199-4336-b339-1176af4f1d02/27c8c477-ef1f-4134-a122-75be773d3728.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/d9928fb6-ff82-419d-8040-8a3a243c32b3/68797aba-bcc3-4275-a18c-e09a21471f1f.jpg
+[13308:7468:1026/175030.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/14e31ebf-5973-46e6-bb38-b41a02f1791e/971b574b-cd7a-4dc6-a52a-6ae539594347.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/bfb1c535-2553-41c4-afe3-e8d64de962ff/50c23f92-16fd-407e-aed8-c84b82acdb13.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/8916b230-a522-4aa1-a798-be28472b1d41/8f869c15-deba-4379-b583-7b134311ab4b.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/823021dc-e4c2-4b88-9097-e2a797e64f72/57ae79ab-215a-4966-8e6e-4a80c560fe34.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/99a7022a-8a52-4893-ba7f-c052d6f8c812/0fcaa0c7-fd15-4c65-aee9-98beea6a39e7.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/a0ed07c6-42da-4e79-a7d2-a046f46ca243/a6c0f490-67ee-4492-8ed1-7a1836853299.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/f27df483-776b-4113-ac59-5790dca74d95/3518e47e-d8fb-48fe-b722-9b0feb95c7ef.jpg
+[13308:7468:1026/175030.619:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/370f9dab-97b7-4200-8988-a2bb52b15483/b7b65857-533b-42b3-a59d-aa30c0c53608.jpg
+[13308:7468:1026/175030.620:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/180e1047-837c-4ee0-b4c4-249fa7352619/3ff6148d-b6fa-4d74-8951-8171be3d1014.jpg
+[13308:7468:1026/175030.620:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/8b1d9d28-fb02-4cdb-a6d5-fcdddce2e7c5/cf853c04-6156-4be7-ba59-5bf58a9ba119.jpg
+[13308:7468:1026/175030.620:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/8facadde-0182-47d2-b54e-8289c4e53262/a3e3d3d8-853d-462e-885b-1830acfc938c.jpg
+[13308:7468:1026/175030.621:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/f8fdaae6-24b4-4df1-8aa6-7f75215c406e/02efed9d-a824-4c4d-908e-8a968078623c.jpg
+[13308:7468:1026/175030.621:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/0fecdf10-357e-44b0-a316-e58fd0bfbc84/1840fbdb-c00f-4d7b-9782-35fa531e151b.jpg
+[12240:10332:1026/175030.679:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[12240:10332:1026/175030.679:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[13308:7468:1026/175030.688:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTI4LjAuNjYxMy4xMzgSJwnkEu6YOEYPPxIFDZFhlU4SBQ1TWkfFEgUNvyRSkCGXki-9B9cx1g==?alt=proto
+[12240:6220:1026/175035.656:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175035.748:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175035.748:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175035.765:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3/asset-formats/unreal-engine/files/479f5906-eaad-44e9-8ddc-53a501bf55d0/download-info?platform=Windows
+[12240:6220:1026/175036.014:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175036.210:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://tracking.epicgames.com/track.png?interactionType=click&eventCategory=button&eventAction=navigation&eventLabel=Download&eventValue=%7B%22button_detail%22%3A%22AddToProject%22%2C%22buttonDestinationLink%22%3A%22%22%2C%22mcpAssetName%22%3A%22Soul%3A%20City%22%2C%22standardLabel%22%3A%22download%22%2C%22listingId%22%3A%22dd77fee6-0ad2-41ce-b32c-09300c24c9f3%22%2C%22listingType%22%3A%223d-model%22%2C%22fileFormat%22%3A%22unreal-engine%22%2C%22platform%22%3A%22Fab_UE5_Plugin%22%7D&referringUrl=none&location=https%3A%2F%2Fwww.fab.com%2Fplugins%2Fue5%2Flistings%2Fdd77fee6-0ad2-41ce-b32c-09300c24c9f3&now=1793051436013&eventType=interaction&accountId=1439208a8dee410795850a9ad0529edd&l=en
+[12240:6220:1026/175040.074:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175040.199:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175040.208:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://tracking.epicgames.com/track.png?eventCategory=button&interactionType=click&eventAction=navigation&eventLabel=Add%20to%20My%20Library&eventValue=%7B%22buttonDestinationLink%22%3A%22%22%2C%22mcpAssetName%22%3A%22Soul%3A%20City%22%2C%22offerID%22%3A%222e4c4fcb93994e0e919129fcbed411fe%22%2C%22listingId%22%3A%22dd77fee6-0ad2-41ce-b32c-09300c24c9f3%22%2C%22standardLabel%22%3A%22add%20to%20my%20library%22%2C%22platform%22%3A%22Fab_UE5_Plugin%22%7D&referringUrl=none&location=https%3A%2F%2Fwww.fab.com%2Fplugins%2Fue5%2Flistings%2Fdd77fee6-0ad2-41ce-b32c-09300c24c9f3&now=1793051440190&eventType=interaction&accountId=1439208a8dee410795850a9ad0529edd&l=en
+[13308:7468:1026/175040.208:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3/add-to-library
+[13308:7468:1026/175040.417:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/listings/dd77fee6-0ad2-41ce-b32c-09300c24c9f3/asset-formats/unreal-engine
+[13308:7468:1026/175040.417:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://www.fab.com/i/users/me/listings-states/dd77fee6-0ad2-41ce-b32c-09300c24c9f3
+[12240:6220:1026/175048.174:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175048.276:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/aab297fa-8f31-44f1-b6a7-2cb973b0a119/d104083b-8c1b-420f-9083-c94294825a23.jpg
+[12240:6220:1026/175049.707:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175049.801:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/fd954289-c3b2-4960-add2-f27d0414540f/d4e3234a-d9b7-4f85-8681-fccb8377c252.jpg
+[12240:6220:1026/175050.400:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175050.516:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/2d7f130b-67a2-4eba-8ef3-e8b85c024d37/f7b5cd34-fa96-46e8-8ac8-00b6069d3384.jpg
+[12240:6220:1026/175050.975:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175051.067:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/a81a2c62-f626-46ad-8bce-c818c0193bab/eb8c8945-b307-4f86-9685-f3bf5cb91988.jpg
+[12240:6220:1026/175051.791:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175051.910:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/6b4f09d4-d1b9-4c8f-b138-b6c3210b5fb3/5d9f8927-fdea-4418-baae-658d20c7cfb7.jpg
+[12240:6220:1026/175052.540:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175052.650:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/bc37959a-da09-48ff-b518-e9cd3d00e5ca/d090b056-9e3f-4754-8ec7-41b9fb6242b8.jpg
+[12240:6220:1026/175052.725:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[12240:6220:1026/175052.834:VERBOSE1:browser_info_manager.cc(524)] frame 6-7105F6C925450352DD80302C6FDC2C9F, pdf_process=0, browser_process_guest=0, print_preview_dialog=0, main=1
+[13308:7468:1026/175052.834:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://media.fab.com/image_previews/gallery_images/425bc271-9677-4c50-86fd-453853bd8210/a66ce5c7-0e0c-41ec-af06-6b61498cacff.jpg
+[13308:7468:1026/175127.546:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175127.546:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[13308:7468:1026/175127.568:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175127.568:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175127.568:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[13308:7468:1026/175138.738:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[13308:7468:1026/175138.741:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175138.741:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[13308:7468:1026/175138.760:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175138.761:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175138.761:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[13308:7468:1026/175138.761:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175138.761:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[13308:7468:1026/175138.761:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[9548:15224:1026/175625.848:VERBOSE1:frame_impl.cc(620)] frame 6-7105F6C925450352DD80302C6FDC2C9F disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[9548:15224:1026/175625.848:VERBOSE1:frame_impl.cc(633)] frame 6-7105F6C925450352DD80302C6FDC2C9F connection retry scheduled

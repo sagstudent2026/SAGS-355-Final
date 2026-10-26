@@ -1,0 +1,190 @@
+[21004:20264:1026/175716.818:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21004:12080:1026/175716.848:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21004:20264:1026/175716.854:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11112:16520:1026/175718.069:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA005517C78CAAB344BA97B79B2599EF will be ignored
+[21004:20264:1026/175720.935:ERROR:usb_descriptors.cc(119)] Failed to parse configuration descriptor.
+[21004:12624:1026/175755.030:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[21004:20264:1026/175755.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[21004:20264:1026/175755.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[21004:20264:1026/175755.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[21004:20264:1026/175755.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[21004:20264:1026/175755.039:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[21004:20264:1026/175755.040:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[21004:20264:1026/175755.040:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[21004:20264:1026/175755.040:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[21004:20264:1026/175755.532:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[21004:20264:1026/175755.532:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[21004:12624:1026/185016.113:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=87})
+[21004:12624:1026/185017.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=86})
+[21004:12624:1026/185023.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=87})
+[21004:12624:1026/185031.123:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:12624:1026/185113.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=89})
+[21004:12624:1026/185115.147:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[7584:18812:1026/185129.547:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[7584:18812:1026/185129.550:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185129.550:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[7584:18812:1026/185129.566:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185129.567:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185129.567:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[7584:18812:1026/185129.567:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185129.567:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185129.567:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[21004:12624:1026/185157.178:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=88})
+[21004:12624:1026/185200.182:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:12624:1026/185214.220:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185215.215:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185216.213:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185218.255:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185219.288:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185221.243:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:12624:1026/185240.275:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185241.292:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185242.266:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185246.300:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185249.298:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185250.322:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185253.233:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185254.264:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185257.247:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185259.318:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185300.272:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185301.250:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185304.295:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185310.315:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=76})
+[21004:12624:1026/185314.330:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185316.301:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185318.298:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185320.263:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185322.304:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=81})
+[21004:12624:1026/185325.300:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=82})
+[21004:12624:1026/185326.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=81})
+[21004:12624:1026/185328.284:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185330.363:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185334.304:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185338.308:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185346.347:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185349.372:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185352.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185358.374:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185359.364:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185400.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185402.376:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185406.312:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185409.335:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185413.387:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185416.357:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185417.381:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185418.398:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[7584:18812:1026/185426.044:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[7584:18812:1026/185426.055:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185426.061:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[7584:18812:1026/185426.073:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185426.083:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185426.083:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[7584:18812:1026/185426.083:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185426.083:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185426.085:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[21004:12624:1026/185428.336:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185430.409:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185433.353:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185438.387:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185439.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185440.417:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185442.406:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:12624:1026/185503.451:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=76})
+[21004:12624:1026/185509.388:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185512.385:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185513.645:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=81})
+[21004:12624:1026/185515.396:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=82})
+[21004:12624:1026/185516.394:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=84})
+[21004:12624:1026/185517.404:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:12624:1026/185530.426:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185531.411:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185532.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185537.454:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185538.427:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185540.478:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185543.421:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185544.413:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185545.433:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185546.411:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185548.460:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185549.491:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185555.597:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[21004:20264:1026/185714.627:VERBOSE1:device_event_log_impl.cc(198)] [18:57:14.626] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[21004:20264:1026/185714.628:VERBOSE1:device_event_log_impl.cc(198)] [18:57:14.627] Display: EVENT: screen_win.cc:895 Display[3936821709] bounds=[0,0 1920x1080], workarea=[0,0 1920x1032], scale=2, rotation=0, panel_rotation=0 external detected
+[7584:18812:1026/185724.806:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[7584:18812:1026/185724.813:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185724.816:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[7584:18812:1026/185724.837:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185724.839:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185724.840:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[21004:12624:1026/185727.540:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=72})
+[21004:12624:1026/185728.525:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=71})
+[21004:12624:1026/185729.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=72})
+[21004:12624:1026/185731.521:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=73})
+[21004:12624:1026/185732.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=74})
+[21004:12624:1026/185733.531:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=77})
+[21004:12624:1026/185735.598:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185736.531:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185737.594:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185739.610:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185749.581:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185755.625:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185757.586:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185759.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185801.569:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=78})
+[21004:12624:1026/185802.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=79})
+[21004:12624:1026/185805.582:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=80})
+[21004:12624:1026/185806.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000711C001B6D40}, {new_limit=100})
+[7584:18812:1026/185958.540:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[7584:18812:1026/185958.542:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185958.567:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185959.206:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185959.207:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[7584:18812:1026/185959.207:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[7584:18812:1026/185959.208:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[21004:20264:1026/190117.926:VERBOSE1:device_event_log_impl.cc(198)] [19:01:17.926] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[21004:20264:1026/190117.926:VERBOSE1:device_event_log_impl.cc(198)] [19:01:17.926] Display: EVENT: screen_win.cc:895 Display[3936821709] bounds=[0,0 1920x1080], workarea=[0,0 1920x1032], scale=2, rotation=0, panel_rotation=0 external detected
+[21004:20264:1026/190128.442:VERBOSE1:device_event_log_impl.cc(198)] [19:01:28.441] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[21004:20264:1026/190128.442:VERBOSE1:device_event_log_impl.cc(198)] [19:01:28.441] Display: EVENT: screen_win.cc:895 Display[3936821709] bounds=[0,0 1920x1080], workarea=[0,0 1920x1032], scale=2, rotation=0, panel_rotation=0 external detected
+[21004:20264:1026/190136.143:VERBOSE1:frame_host_impl.cc(515)] frame 7-0043841CD6878EFD59EA2C73BE989B45 (sub) detached (reason=RENDER_FRAME_DELETED, is_connected=1)
+[21004:20264:1026/190136.144:VERBOSE1:frame_host_impl.cc(515)] frame 7-D2AF8EFB25BB20B0BDD3AE9B883943E5 (sub) detached (reason=RENDER_FRAME_DELETED, is_connected=1)
+[15112:17972:1026/190136.145:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 1
+[15112:17972:1026/190136.145:VERBOSE1:frame_impl.cc(620)] frame 6-1564D107F1D2D14846E6601EDDE0EE96 disconnected (reason=DETACHED, current_state=CONNECTION_ACKED, FRAME_INVALID)
+[21032:18364:1026/190136.145:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 1
+[21032:18364:1026/190136.145:VERBOSE1:frame_impl.cc(620)] frame 7-D2AF8EFB25BB20B0BDD3AE9B883943E5 disconnected (reason=DETACHED, current_state=CONNECTION_ACKED, FRAME_INVALID)
+[21004:20264:1026/190136.146:VERBOSE1:frame_host_impl.cc(515)] frame 6-1564D107F1D2D14846E6601EDDE0EE96 (sub) detached (reason=RENDER_FRAME_DELETED, is_connected=1)
+[15112:17972:1026/190136.147:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[15112:17972:1026/190136.147:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[15112:17972:1026/190136.147:VERBOSE1:frame_impl.cc(620)] frame 6-C0197058DA48647A3E81A17D2E761BFD disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[15112:17972:1026/190136.147:VERBOSE1:frame_impl.cc(633)] frame 6-C0197058DA48647A3E81A17D2E761BFD connection retry scheduled
+[21032:18364:1026/190136.147:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[21004:20264:1026/190136.147:VERBOSE1:frame_host_impl.cc(515)] frame 6-C0197058DA48647A3E81A17D2E761BFD (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[21032:18364:1026/190136.147:VERBOSE1:frame_impl.cc(620)] frame 7-0043841CD6878EFD59EA2C73BE989B45 disconnected (reason=DETACHED, current_state=CONNECTION_ACKED, FRAME_INVALID)
+[21032:18364:1026/190136.149:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[21032:18364:1026/190136.149:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[21004:20264:1026/190136.163:VERBOSE1:account_reconcilor.cc(264)] AccountReconcilor::Shutdown
+[21004:20264:1026/190136.163:VERBOSE1:account_reconcilor.cc(718)] AccountReconcilor::AbortReconcile: try again later
+[21004:20264:1026/190136.163:VERBOSE1:account_reconcilor.cc(827)] AccountReconcilor::CalculateIfMultiloginReconcileIsDone: Error was 
+[21004:20264:1026/190136.163:VERBOSE1:account_reconcilor.cc(313)] AccountReconcilor::UnregisterWithIdentityManager
+[21004:20264:1026/190136.163:VERBOSE1:account_reconcilor.cc(286)] AccountReconcilor::UnregisterWithContentSettings
+[21004:20264:1026/190136.163:VERBOSE1:gaia_cookie_manager_service.cc(628)] GaiaCookieManagerService::CancelAll
+[21004:20264:1026/190136.163:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(752)] MutablePO2TS::Shutdown
+[21004:20264:1026/190136.163:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(235)] MutablePO2TS::~MutablePO2TS
+[21004:20264:1026/190136.163:VERBOSE1:device_event_log_impl.cc(198)] [19:01:36.162] Bluetooth: EVENT: bluetooth_api.cc:109 BluetoothAPI: Shutdown
+[21004:20264:1026/190136.164:VERBOSE1:account_reconcilor.cc(193)] AccountReconcilor::~AccountReconcilor
+[21004:20264:1026/190136.164:VERBOSE1:device_event_log_impl.cc(198)] [19:01:36.164] Bluetooth: EVENT: bluetooth_api.cc:95 ~BluetoothAPI: 0000711C0032DA00
+[21004:12624:1026/190136.181:VERBOSE1:media_stream_manager.cc(1533)] MDM::HandleDevicesChanged({type=AUDIO_INPUT}
+[21004:12624:1026/190136.181:VERBOSE1:media_stream_manager.cc(1533)] MDM::DoEnumerateDevices({type=AUDIO_INPUT})
+[21004:12624:1026/190136.230:VERBOSE1:media_stream_manager.cc(1533)] MDM::StopMonitoring([this=0000711C000CDA00])
+[21004:20264:1026/190136.235:VERBOSE1:component_updater_service.cc(180)] CrxUpdateService stopping
+[21004:20264:1026/190136.235:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
