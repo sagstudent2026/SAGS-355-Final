@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Env_Project/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+Env_Project/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_D40871C9457EC6FF28D1459215E0FB23.bin
