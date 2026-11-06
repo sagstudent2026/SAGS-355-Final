@@ -22281,3 +22281,54 @@ FPackageName: Skipped package /Game/Megascans/Surfaces/Gravel_Pebbledash_ugzmbcr
 [2026.11.06-20.46.24:608][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 310.102295
 [2026.11.06-20.46.25:608][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.06-20.46.25:608][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 310.769165, Update Interval: 339.445801
+[2026.11.06-20.48.14:892][120]LogSlate: Window 'Delete' being destroyed
+[2026.11.06-20.48.14:910][120]Message dialog closed, result: Yes, title: Delete, text: Delete folder '/Game/CitySampleBuildings'?
+[2026.11.06-20.48.17:661][120]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.11.06-20.48.17:666][120]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 26 assets. Are you sure you want to continue?
+[2026.11.06-20.48.17:719][120]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.06-20.48.17:725][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHC_A01_Level01_N1
+[2026.11.06-20.48.17:854][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHC_A01_N1
+[2026.11.06-20.48.17:895][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Mid_SFA_Triangle_Level01_N1
+[2026.11.06-20.48.17:904][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHJ_B01_Level01_N1
+[2026.11.06-20.48.17:906][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHE_B01_Level01_N1
+[2026.11.06-20.48.18:556][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHJ_B01_N1
+[2026.11.06-20.48.18:743][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Tower_CHE_B01_N1
+[2026.11.06-20.48.18:905][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Bldg_Hero_Mid_SFE_C01_N1
+[2026.11.06-20.48.18:962][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Hero_SFJ_C01_Level01_N1
+[2026.11.06-20.48.18:995][120]LogChaosDD: Creating Chaos Debug Draw Scene for world NYH_Ref_N1
+[2026.11.06-20.48.19:019][120]LogChaosDD: Creating Chaos Debug Draw Scene for world CHI_Ref_A1_N1
+[2026.11.06-20.48.19:025][120]LogChaosDD: Creating Chaos Debug Draw Scene for world CHI_Ref_A1_Level01_N1
+[2026.11.06-20.48.19:095][120]LogChaosDD: Creating Chaos Debug Draw Scene for world CHA_Ref_N1
+[2026.11.06-20.48.19:129][120]LogObjectTools: Deleting 13 worlds: /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHC_A01_Level01_N1.Bldg_Hero_Tower_CHC_A01_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHC_A01_N1.Bldg_Hero_Tower_CHC_A01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Mid_SFA_Triangle_Level01_N1.Bldg_Hero_Mid_SFA_Triangle_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHJ_B01_Level01_N1.Bldg_Hero_Tower_CHJ_B01_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHE_B01_Level01_N1.Bldg_Hero_Tower_CHE_B01_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHJ_B01_N1.Bldg_Hero_Tower_CHJ_B01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Tower_CHE_B01_N1.Bldg_Hero_Tower_CHE_B01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Bldg_Hero_Mid_SFE_C01_N1.Bldg_Hero_Mid_SFE_C01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Hero_Bldg/LevelInstance/Hero_SFJ_C01_Level01_N1.Hero_SFJ_C01_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Ref_Bldg/LevelInstance/NYH_Ref_N1.NYH_Ref_N1, /Game/CitySampleBuildings/Building/Library/Kit_Ref_Bldg/LevelInstance/CHI_Ref_A1_N1.CHI_Ref_A1_N1, /Game/CitySampleBuildings/Building/Library/Kit_Ref_Bldg/LevelInstance/CHI_Ref_A1_Level01_N1.CHI_Ref_A1_Level01_N1, /Game/CitySampleBuildings/Building/Library/Kit_Ref_Bldg/LevelInstance/CHA_Ref_N1.CHA_Ref_N1
+[2026.11.06-20.48.19:129][120]LogObjectTools: Currently 2 active worlds: /Game/Main_Level.Main_Level, /Engine/Transient.World_0
+[2026.11.06-20.48.19:156][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.06-20.48.21:330][120]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.06-20.48.21:340][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHC_A01_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:340][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:341][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHC_A01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:348][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:350][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Mid_SFA_Triangle_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:350][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:351][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHJ_B01_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:351][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:351][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHE_B01_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:351][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:352][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHJ_B01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:386][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:395][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Tower_CHE_B01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:398][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:398][120]LogWorld: UWorld::CleanupWorld for Bldg_Hero_Mid_SFE_C01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:406][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:408][120]LogWorld: UWorld::CleanupWorld for Hero_SFJ_C01_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:408][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:408][120]LogWorld: UWorld::CleanupWorld for NYH_Ref_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:409][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:409][120]LogWorld: UWorld::CleanupWorld for CHI_Ref_A1_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:410][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:410][120]LogWorld: UWorld::CleanupWorld for CHI_Ref_A1_Level01_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:410][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:411][120]LogWorld: UWorld::CleanupWorld for CHA_Ref_N1, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-20.48.21:414][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-20.48.21:663][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.06-20.48.21:682][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.11.06-20.48.21:698][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
